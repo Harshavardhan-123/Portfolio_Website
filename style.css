@@ -292,7 +292,7 @@ section {
     right: 40px;
     pointer-events: none;
     max-width: 480px;
-    max-height: 100vh;
+    max-height: 90vh;
 }
 
 span {
